@@ -6,13 +6,6 @@ An Arduino-based embedded project that uses an **HC-SR04 ultrasonic sensor** and
 
 ---
 
-## 🖼️ Project Demo
-
-<!-- Replace this with your actual image -->
-![Project Photo](path/to/photo.jpg)
-
----
-
 ## 🧠 Features
 
 - Real-time distance measurement using HC-SR04 sensor.
@@ -39,7 +32,4 @@ An Arduino-based embedded project that uses an **HC-SR04 ultrasonic sensor** and
 3. Calculates distance based on time delay.
 4. Displays the result in both cm and inches on the LCD.
 
----
-
-## 📂 Project Structure
 

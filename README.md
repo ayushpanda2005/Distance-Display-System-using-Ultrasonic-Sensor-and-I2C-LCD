@@ -5,6 +5,7 @@
 An Arduino-based embedded project that uses an **HC-SR04 ultrasonic sensor** and a **16x2 I2C LCD display** to measure and show the distance to an object in both **centimeters and inches** in real time.
 
 ---
+ProjectLink : https://www.tinkercad.com/things/euK19BK7WOI-ultrasonic-distance-display-system?sharecode=AcwcZxLJUcoBGpnOO5p5KSckDBe_5amMTjLiKG4JuGc
 
 ## 🧠 Features
 
